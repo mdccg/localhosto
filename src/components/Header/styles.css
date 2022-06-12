@@ -1,0 +1,73 @@
+header {
+  background-color: var(--wet-asphalt);
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+
+  box-sizing: border-box;
+  padding: 8px 32px;
+}
+
+header #header-user #logout-icon:hover {
+  background-color: var(--fuel-town);
+}
+
+header ::selection {
+  background-color: var(--pink-glamour);
+}
+
+header h1 {
+  font-family: 'Quicksand';
+  color: white;
+  font-size: 250%;
+
+  font-weight: 500;
+}
+
+header #header-user {
+  align-items: center;
+  display: flex;
+}
+
+header #header-user > :not(:last-child) {
+  margin-right: 12px;
+}
+
+header #header-user img {
+  width:  64px;
+  height: 64px;
+
+  border-radius: 50%;
+}
+
+header #header-user span {
+  color: white;
+  font-size: 125%;
+  
+  font-weight: 500;
+  line-height: 1.15;
+  text-align: right;
+
+  width: 128px;
+}
+
+header #header-user #logout-icon {
+  width:  48px;
+  height: 48px;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+  border-radius: 4px;
+
+  transition: all 0.125s;
+  cursor: pointer;
+}
+
+header #header-user #logout-icon svg {
+  width:  24px;
+  height: 24px;
+
+  fill: white;
+}

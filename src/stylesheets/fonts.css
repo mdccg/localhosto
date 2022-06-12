@@ -1,0 +1,87 @@
+/* Quicksand */
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('/assets/fonts/Quicksand/Quicksand-Light.ttf');
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('/assets/fonts/Quicksand/Quicksand-Regular.ttf');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('/assets/fonts/Quicksand/Quicksand-Medium.ttf');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('/assets/fonts/Quicksand/Quicksand-SemiBold.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('/assets/fonts/Quicksand/Quicksand-Bold.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* Assistant */
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-ExtraLight.ttf');
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-Light.ttf');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-Regular.ttf');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-Medium.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-SemiBold.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-Bold.ttf');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Assistant';
+  src: url('/assets/fonts/Assistant/Assistant-ExtraBold.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
